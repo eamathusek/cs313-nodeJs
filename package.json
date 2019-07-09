@@ -1,33 +1,8 @@
 {
-  "name": "blog-page",
-  "version": "0.3.0",
-  "description": "A blog page for this project",
-  "engines": {
-    "node": "10.x"
-  },
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "node test.js"
-  },
-  "dependencies": {
-    "ejs": "^2.6.2",
-    "express": "^4.17.1"
-  },
-  "devDependencies": {
-    "request": "^2.81.0",
-    "tape": "^4.7.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://git.heroku.com/secret-hamlet-39521.git"
-  },
-  "keywords": [
-    "node",
-    "heroku",
-    "express",
-    "blog",
-    "awesome"
-  ],
-  "license": "MIT"
+  "name" : "blog",
+  "version" : "0.0.1",
+  "description" : "My minimalistic blog",
+  "dependencies" : {
+    "mime" : "~1.2.7"
+  }
 }
