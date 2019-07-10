@@ -1,4 +1,4 @@
-CREATE TABLE public."Journal"
+CREATE TABLE Journal
 (
     date_id DATE NOT NULL PRIMARY KEY,
     workout VARCHAR(1000)
