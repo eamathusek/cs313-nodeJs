@@ -1,8 +1,8 @@
 {
-  "name" : "workout_journal",
-  "version" : "0.0.1",
-  "description" : "Workout Journal",
-  "dependencies" : {
-    "mime" : "~1.2.7"
+  "name": "workout_journal",
+  "version": "0.0.1",
+  "description": "Workout Journal",
+  "dependencies": {
+    "mime": "^2.4.4"
   }
 }
