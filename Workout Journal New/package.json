@@ -1,7 +1,7 @@
 {
-  "name" : "blog",
+  "name" : "workout_journal",
   "version" : "0.0.1",
-  "description" : "My minimalistic blog",
+  "description" : "Workout Journal",
   "dependencies" : {
     "mime" : "~1.2.7"
   }
